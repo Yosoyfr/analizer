@@ -1,0 +1,11 @@
+README.md
+setup.py
+analizer_yosoyfr.egg-info/PKG-INFO
+analizer_yosoyfr.egg-info/SOURCES.txt
+analizer_yosoyfr.egg-info/dependency_links.txt
+analizer_yosoyfr.egg-info/top_level.txt
+libs/AggregateFunctions.py
+libs/MathFunctions.py
+libs/StringFunctions.py
+libs/TrigonometricFunctions.py
+libs/__init__.py
